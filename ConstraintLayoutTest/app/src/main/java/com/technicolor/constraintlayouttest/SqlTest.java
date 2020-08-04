@@ -67,7 +67,7 @@ public class SqlTest extends AppCompatActivity {
                 };
 
 
-                String selection = FeedReaderContract.FeedEntry.COLUMN_NAME_TITLE + " = ?";
+                String selection = FeedReaderContract.FeedEntry.COLUMN_NAME_TITLE + " = ?";//? means parameter
                 String[] selectionArgs = { "example" };
 
 
