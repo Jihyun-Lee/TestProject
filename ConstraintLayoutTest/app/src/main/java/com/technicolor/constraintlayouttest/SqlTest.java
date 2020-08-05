@@ -15,6 +15,7 @@ import android.widget.Toast;
 import com.technicolor.sqlitetest.FeedReaderContract;
 import com.technicolor.sqlitetest.FeedReaderDbHelper;
 
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -105,6 +106,7 @@ public class SqlTest extends AppCompatActivity {
 
                 int deletedRows = db.delete(FeedReaderContract.FeedEntry.TABLE_NAME, selection, selectionArgs);
                 Toast.makeText(getApplicationContext(),"deletedRows : "+deletedRows,Toast.LENGTH_SHORT).show();
+
             }
         });
 
