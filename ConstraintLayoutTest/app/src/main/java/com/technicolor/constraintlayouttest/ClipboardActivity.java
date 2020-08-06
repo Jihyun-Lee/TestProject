@@ -63,7 +63,9 @@ public class ClipboardActivity extends AppCompatActivity {
                 if (item.getText() != null)
                     Toast.makeText(getApplicationContext(), "clipboard text : " + item.getText().toString(), Toast.LENGTH_SHORT).show();
                 else //intent
-                    Toast.makeText(getApplicationContext(), "clipboard text : " + item.getIntent().toString(), Toast.LENGTH_SHORT).show();
+
+                    Toast.makeText(getApplicationContext(), "clipboard text : " + item.coerceToText(getApplicationContext()).toString(), Toast.LENGTH_SHORT).show();
+                    //Toast.makeText(getApplicationContext(), "clipboard text : " + item.getIntent().toString(), Toast.LENGTH_SHORT).show();
 
             }
         });
