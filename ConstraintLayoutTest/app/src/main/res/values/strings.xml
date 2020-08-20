@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ConstraintLayoutTest</string>
+    <string name="appwidget_text">test</string>
 </resources>
