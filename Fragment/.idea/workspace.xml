@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b775339-25a2-49a0-808a-78686ceb8be3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/TestProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_exifinterface_exifinterface_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_test_core_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_test_runner_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__com_github_bumptech_glide_annotations_4_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__com_github_bumptech_glide_disklrucache_4_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_12_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_12_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/modules/app/ConstraintLayoutTest.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/app/src/main/java/com/technicolor/touchevent/GlideTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/app/src/main/java/com/technicolor/touchevent/TouchActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/app/src/main/res/drawable/mi_in.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/app/src/main/res/layout/touch_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/toy/fragment/customview/CustomLoginButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/toy/fragment/ui/main/MyClockFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/google_background.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/google_logo.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/kakao_logo.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/yello_background.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_my_clock.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/welcome_login_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstraintLayoutTest/ConstraintLayoutTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/ConstraintLayoutTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstraintLayoutTest/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstraintLayoutTest/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstraintLayoutTest/app/src/main/java/com/technicolor/constraintlayouttest/ClipboardActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstraintLayoutTest/app/src/main/java/com/technicolor/constraintlayouttest/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstraintLayoutTest/app/src/main/java/com/technicolor/constraintlayouttest/SqlTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstraintLayoutTest/app/src/main/java/com/technicolor/widget/SimpleAppWidget.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/app/src/main/java/com/technicolor/widget/SimpleAppWidget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstraintLayoutTest/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstraintLayoutTest/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstraintLayoutTest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstraintLayoutTest/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstraintLayoutTest/local.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\Lee\.android\avd\Pixel_XL_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app/src/main/java/com/toy/fragment/ui/main/MainFragment.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1uCMJK5T670fTSmcIBXbABnh1CT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="VirtualDevicePath@C:\Users\Lee\.android\avd\Pixel_XL_API_30.avd" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-07-04T08:58:46.436646100Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android-custom-viewD:/github/TestProject/Fragment/app/src/main/java/com/toy/fragment/customview/CustomLoginButton.java_SELECTED" value="CustomLoginButton" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.790862239">
+      <recent name="com.toy.fragment" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.toy.fragment.ui.main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github\TestProject\Fragment\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Fragment.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b775339-25a2-49a0-808a-78686ceb8be3" name="Default Changelist" comment="" />
+      <created>1624165046290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624165046290</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="582" y="162" key="#Inspections" timestamp="1625391666550">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="582" y="162" key="#Inspections/0.0.1920.999/-1920.3.1920.999@0.0.1920.999" timestamp="1625391666550" />
+    <state x="718" y="137" key="#com.intellij.ide.util.MemberChooser" timestamp="1625493298519">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="718" y="137" key="#com.intellij.ide.util.MemberChooser/0.0.1920.999/-1920.3.1920.999@0.0.1920.999" timestamp="1625493298519" />
+    <state x="692" y="343" width="535" height="324" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1625391031962">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="-1228" y="346" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.999/-1920.3.1920.999@-1920.3.1920.999" timestamp="1625387765233" />
+    <state x="692" y="343" width="535" height="324" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.999/-1920.3.1920.999@0.0.1920.999" timestamp="1625391031962" />
+    <state x="624" y="185" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1625390954366">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="624" y="185" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.999/-1920.3.1920.999@0.0.1920.999" timestamp="1625390954366" />
+    <state x="92" y="92" width="1736" height="815" key="AVDManager" timestamp="1624165451966">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="92" y="92" width="1736" height="815" key="AVDManager/0.0.1920.999/-1920.3.1920.999@0.0.1920.999" timestamp="1624165451966" />
+    <state x="537" y="245" key="AndroidCreateResourceFileDialog" timestamp="1624166018115">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="537" y="245" key="AndroidCreateResourceFileDialog/0.0.1920.999/-1920.3.1920.999@0.0.1920.999" timestamp="1624166018115" />
+    <state x="777" y="242" key="AndroidCreateXmlResourceDialog" timestamp="1625492489097">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="777" y="242" key="AndroidCreateXmlResourceDialog/0.0.1920.999/-1920.3.1920.999@0.0.1920.999" timestamp="1625492489097" />
+    <state width="1865" height="182" key="GridCell.Tab.0.bottom" timestamp="1625495527101">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1865" height="182" key="GridCell.Tab.0.bottom/0.0.1920.999/-1920.3.1920.999@0.0.1920.999" timestamp="1625495527101" />
+    <state width="1865" height="182" key="GridCell.Tab.0.center" timestamp="1625495527101">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1865" height="182" key="GridCell.Tab.0.center/0.0.1920.999/-1920.3.1920.999@0.0.1920.999" timestamp="1625495527101" />
+    <state width="1865" height="182" key="GridCell.Tab.0.left" timestamp="1625495527101">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1865" height="182" key="GridCell.Tab.0.left/0.0.1920.999/-1920.3.1920.999@0.0.1920.999" timestamp="1625495527101" />
+    <state width="1865" height="182" key="GridCell.Tab.0.right" timestamp="1625495527101">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1865" height="182" key="GridCell.Tab.0.right/0.0.1920.999/-1920.3.1920.999@0.0.1920.999" timestamp="1625495527101" />
+    <state width="1848" height="253" key="GridCell.Tab.1.bottom" timestamp="1624198126525">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1848" height="253" key="GridCell.Tab.1.bottom/0.0.1920.999/-1920.3.1920.999@0.0.1920.999" timestamp="1624198126525" />
+    <state width="1848" height="253" key="GridCell.Tab.1.center" timestamp="1624198126525">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1848" height="253" key="GridCell.Tab.1.center/0.0.1920.999/-1920.3.1920.999@0.0.1920.999" timestamp="1624198126525" />
+    <state width="1848" height="253" key="GridCell.Tab.1.left" timestamp="1624198126525">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1848" height="253" key="GridCell.Tab.1.left/0.0.1920.999/-1920.3.1920.999@0.0.1920.999" timestamp="1624198126525" />
+    <state width="1848" height="253" key="GridCell.Tab.1.right" timestamp="1624198126525">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1848" height="253" key="GridCell.Tab.1.right/0.0.1920.999/-1920.3.1920.999@0.0.1920.999" timestamp="1624198126525" />
+    <state x="645" y="213" key="refactoring.ChangeSignatureDialog" timestamp="1625493390054">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="645" y="213" key="refactoring.ChangeSignatureDialog/0.0.1920.999/-1920.3.1920.999@0.0.1920.999" timestamp="1625493390054" />
+  </component>
+</project>

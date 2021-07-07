@@ -10,7 +10,6 @@ import android.os.Bundle;
 import android.widget.RemoteViews;
 import android.widget.Toast;
 
-import com.technicolor.constraintlayouttest.R;
 
 /**
  * https://medium.com/android-bits/android-widgets-ad3d166458d3
@@ -34,12 +33,12 @@ public class SimpleAppWidget extends AppWidgetProvider {
 
     private void updateAppWidget(Context context, AppWidgetManager appWidgetManager,
                                  int appWidgetId) {
-        RemoteViews views = new RemoteViews(context.getPackageName(), R.layout.widget);
+        //RemoteViews views = new RemoteViews(context.getPackageName(), R.layout.widget);
         Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://naver.com"));
         // In widget we are not allowing to use intents as usually. We have to use PendingIntent instead of 'startActivity'
         PendingIntent pendingIntent = PendingIntent.getActivity(context, 0, intent,0 );
-        views.setOnClickPendingIntent(R.id.tvWidget, pendingIntent);
-        appWidgetManager.updateAppWidget(appWidgetId, views);
+        //views.setOnClickPendingIntent(R.id.tvWidget, pendingIntent);
+        //appWidgetManager.updateAppWidget(appWidgetId, views);
     }
 
 
